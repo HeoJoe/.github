@@ -1,12 +1,11 @@
-## Hi there 👋
+## 허조 개인 프로젝트
+```  
+🖥️ 서버 활용 개인 프로젝트 스터디  
+```
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 👩🏻‍💻 Members
+| 조정미 | 허윤아 |                                                                                                               
+| :---: | :---: |
+| <img width="200px" src="https://avatars.githubusercontent.com/u/76805879?v=4" /> | <img width="200px" src="https://avatars.githubusercontent.com/u/101046600?v=4" /> |
+|  [@jung0115](https://github.com/jung0115)  | [@yoona1110](https://github.com/yoona1110)  |
+| 경상대학교 컴퓨터과학과 20학번 | 한림대학교 빅데이터학과 20학번 |
