@@ -2,6 +2,11 @@
 ```  
 🖥️ 서버 활용 개인 프로젝트 + 클론코딩 스터디  
 ```
+<div align=center>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeoJoe&count_bg=%237882DD&title_bg=%236B44B4&icon=&icon_color=%23E7E7E7&title=HeoJoe&edge_flat=false"/>
+  </a>
+</div>
   
 ### 👩🏻‍💻 Members
 | 조정미 | 허윤아 |                                                                                                               
