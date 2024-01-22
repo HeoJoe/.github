@@ -7,6 +7,8 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeoJoe&count_bg=%237882DD&title_bg=%236B44B4&icon=&icon_color=%23E7E7E7&title=HeoJoe&edge_flat=false"/>
   </a>
 </div>
+
+---
   
 ### 👩🏻‍💻 Members
 | 조정미 | 허윤아 |                                                                                                               
@@ -14,6 +16,8 @@
 | <img width="160px" src="https://avatars.githubusercontent.com/u/76805879?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/101046600?v=4" /> |
 |  [@jung0115](https://github.com/jung0115)  | [@yoona1110](https://github.com/yoona1110)  |
 | 경상대학교<br/>컴퓨터과학과 20학번 | 한림대학교<br/>빅데이터학과 20학번 |
+
+---
   
 ### ✅ Clone Coding
 
